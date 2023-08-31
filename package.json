@@ -1,5 +1,5 @@
 { 
-"name": "The-LoliBot-MD",
+"name": "The-DidiGzBot-MD",
 "version": "1.4.9", 
 "description": "Super Bot WhatsApp",
 "main": "index.js",
@@ -17,7 +17,7 @@
     
 "homepage": "https://github.com/elrebelde21/The-LoliBot-MD",
 "author": {
-"name": "elrebelde21" }, 
+"name": "DidiGz" }, 
     
 "repository": {
 "type": "git",
